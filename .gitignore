@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Day 21 Lab custom results
+lab21_2A202600571_HaVuAnh/
+lab21_2A202600571_HaVuAnh.zip
+/*.zip
+
